@@ -34,6 +34,7 @@
     "import/no-unresolved": "warn",
     "consistent-return": "off",
     "arrow-body-style": "off",
+    "object-shorthand": "warn",
     "prefer-arrow-callback": "off",
     "react/jsx-filename-extension": "off",
     "react/function-component-definition": [
